@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cd /path/to/put/zip/file && git pull
+cd /var/node/quick-dashboard && git pull
